@@ -14,7 +14,7 @@ To get started, follow these steps:
 
 1. **Clone This Repository** to Your Local Machine 💻.
    ```bash
-   git clone https://github.com/DurgaiSolutions/Mixtral-7b-Instruct-v0.1
+   git clone https://github.com/Durgaai-Solutions-Hub/Mixtral-7b-Instruct-v0.1
    ```
 
 2. **Install the Required Packages** by Running:
