@@ -3,7 +3,7 @@ import requests
 
 # URL AND API
 URL = 'https://durgaai-solutions-hub-server-mixtral7b-instruct-v0-1.hf.space/run-application'
-API = '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'
+API = 'Your Hugging Face Access Token'
 
 # Custom Prompt
 def Customize_Prompt(message, final_instructions=None):
