@@ -30,7 +30,7 @@ def Public_Model(prompt, instructions, temperature=0.1, max_new_token=2, top_p=0
 
 # Accessing The ChatBot
 def Chatbot():
-    print("Hello! I'm your chatbot. How can I assist you today?")
+    print("Hello! I'm Your Chatbot. How Can I Assist You Today?")
     while True:
         user_input = input("You: ")
         prompt = Customize_Prompt(user_input)
